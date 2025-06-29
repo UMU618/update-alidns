@@ -2,7 +2,7 @@ module github.com/UMU618/update-alidns
 
 go 1.22.2
 
-require github.com/aliyun/alibaba-cloud-sdk-go v1.62.719
+require github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
 
 require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
